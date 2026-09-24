@@ -1,0 +1,7 @@
+---
+description: Use the project's current state and handoff notes when changing project code
+globs: projects/**/*
+alwaysApply: false
+---
+
+Before editing a project, read that project's root AGENTS.md and .agent/HANDOFF.md. After a meaningful session, update its handoff with what changed, checks run, and the next step.
